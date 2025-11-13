@@ -103,3 +103,12 @@ function getWholeNumber(n){
 
 }
 
+/**
+ * Create a function called `stringIncludes` that takes in two
+ * parameters - stringOne & stringTwo. If stringOne includes
+ * stringTwo return true, otherwise return false.
+ */
+
+function stringIncludes(){
+  
+}
